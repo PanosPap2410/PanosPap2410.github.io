@@ -7,4 +7,5 @@
 8. byte6: εκτέλεσα την εντολή unzip byte6.zip και μετά έκανα cat byte6.c
 9. byte7:
 10. byte8: εκτέλεσα την εντολή xxd carriage_return.txt
-11. byte9: 
+11. byte9:
+12. byte10: εκτέλεσα την εντολή sort names.txt και βρήκα το 10ο όνομα στη λίστα
